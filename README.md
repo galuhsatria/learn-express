@@ -10,4 +10,4 @@
   
 **30 Juli 2023**
 - Belajar mengunakan express
-- Belajar membuat server, routing dll. mengunakan express
+- Belajar membuat server, routing dll, mengunakan express
